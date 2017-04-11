@@ -10,3 +10,6 @@ http://www.gxtj.gov.cn/zdbz/tjbz/xzqhdm/201701/P020170107019723973397.xls
 http://www.gxtj.gov.cn/zdbz/tjbz/xzqhdm/201701/P020170107020042266447.xls
 http://www.gxtj.gov.cn/zdbz/tjbz/xzqhdm/201701/P020170107019408041769.xls
 http://www.gxtj.gov.cn/zdbz/tjbz/xzqhdm/201503/P020160125326025474789.xls
+
+map:
+http://xzqh.info/bbs/attachment/Mon_1205/5_29267_fbe829794eade33.jpg?5101
